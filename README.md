@@ -1,6 +1,7 @@
 <html>
   <head>
-    <link> rel="stylesheet" href="energeticenergy.github.io/stylesheet.css"</link>
+    <link>rel="stylesheet" href="energeticenergy.github.io/stylesheet.css"</link>
+  what is changing :(
   </head>
   
   <body>
