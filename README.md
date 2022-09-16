@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="stylesheet" href="energeticenergy.github.io/stylesheet.css">
+    <link rel="stylesheet" href="./main.css">
   </head>
   
   <body>
