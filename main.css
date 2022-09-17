@@ -2,23 +2,21 @@
   background-image: repeating-linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red, violet);
   -webkit-background-clip: text;
   color: transparent;
-  background-size 400% 400%;
-  animation: slidegradient 5s ease infinite;
+  animation: slidegradient 4s infinite;
   height: 100vh;
 }
 @keyframes slidegradient {
   0% {
-    background position: 0% 50%;
+    background-position: 0%;
   }
   50% {
-    background-position: 100% 50%;
+    background-position: 100%;
   }
 }
 
 h1 {
   text-decoration: underline;
   text-align: center;
-  text-shadow: 2px, 2px, blue;
 }
 
 
