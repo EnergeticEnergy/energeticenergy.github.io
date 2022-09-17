@@ -2,15 +2,15 @@
   background-image: repeating-linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red, violet);
   -webkit-background-clip: text;
   color: transparent;
-  animation: slidegradient 4s infinite;
-  height: 100vh;
+  animation: slidegradient linear 4s infinite;
+  height: 300px;
 }
 @keyframes slidegradient {
-  0% {
-    background-position: 0%;
+  from {
+    background-position: 0px, 0px;
   }
-  50% {
-    background-position: 100%;
+  to {
+    background-position: 300px, 0px;
   }
 }
 
