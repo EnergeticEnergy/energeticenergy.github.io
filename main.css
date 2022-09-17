@@ -2,11 +2,10 @@ h1 {
   color: green;
   text-decoration: underline;
   text-align: center;
-  text-shadow: blue, 2px, 2px;
+  text-shadow: 2px, 2px, blue;
 }
 
 
-p {
-  color: black;
+p1 {
   font-family: Helvetica, Arial, Sans-serif;
 }
